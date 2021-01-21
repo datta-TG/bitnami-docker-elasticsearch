@@ -64,7 +64,7 @@ The following checkmark and the word 'normal' will appear once the Kubernetes Cl
 
 * Click on the search section at the top of the main page, type Elasticsearch, and click on it.
 
-![Screenshot](elastic1.PNG)
+![Screenshot](elastic1.png)
 
 * A new window opens, select the cluster, and then select the workspace you want Elasticsearch to be installed. You can also write a new workspace. In this case, we will use the previously created _storage-example_ workspace. Type a workspace name under 'Configure your workspace', accept the terms and click on *Install*. You can modify the different installation parameters at the bottom. We will leave them by default as shown below, but you can read more about setting up the parameters [here](https://cloud.ibm.com/catalog/content/elasticsearch "here").
 
@@ -79,11 +79,11 @@ The following checkmark and the word 'normal' will appear once the Kubernetes Cl
 
 * Click the *Actions* button and select *Web terminal*.
 
-![Screenshot](test2.PNG)
+![Screenshot](test2.png)
 
 * A window opens to install the web terminal, click on install and wait a few minutes. The window will pop up at the buttom If the web terminal is already installed.
 
-![Screenshot](test3.PNG)
+![Screenshot](test3.png)
 
 ![Screenshot](test7.PNG)
 
